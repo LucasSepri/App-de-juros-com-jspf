@@ -1,0 +1,8 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<nav>
+    <ul>
+        <li><a href="index.jsp">Página Inicial</a></li>
+        <li><a href="juros-simples.jsp">Juros Simples</a></li>
+        <li><a href="juros-compostos.jsp">Juros Compostos</a></li>
+    </ul>
+</nav>
