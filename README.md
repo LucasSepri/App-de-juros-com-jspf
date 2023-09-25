@@ -9,4 +9,4 @@ informado pelo usuário
 valores futuros acumulados por período de um montante, taxa
 de juros (em %) e quantidade de meses informado pelo usuário
 o Considerações:
- -- menu deve ser feito utilizando jspf
+ - menu deve ser feito utilizando jspf
